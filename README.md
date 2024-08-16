@@ -9,12 +9,6 @@ This project is a game developed using the C programming language, offering mult
 
 Team Members - 
 
-1> Ish kapoor  -  2201EE31
-2> Harshvardhan singh  -  2201EE30
-3> Kanishk Singhal  -  2201MC21
-4> Mridul  -  2201MM21
-5> Adil  -  2201CS46
-6> Lakshya Pratap Singh  -  2201CE30
-7> Kushal Agarwal  -  2201MC22
-8> Metla Umesh chandra  -  2201AI24
-9> Mojammil Warsi  -  2201CB34
+1> Mridul Kumar -  2201AI51
+2> Ish kapoor  -  2201EE31
+3> Adil Ansari  -  2201CS46
